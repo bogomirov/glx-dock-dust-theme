@@ -9,7 +9,7 @@ Dust theme for Glx-Dock (aka Cairo-Dock) has been carefully designed to bridge t
 
 * The unobtrusive flexibility of Glx-Dock
 
-and bring them together to your professional Linux desktop in a consistent manner.
+and bring them together to your professional *NIX desktop in a consistent manner.
 
 ![Screenshot of an XFCE desktop with the Dust theme and Glx-Dock](screenshot.png)
 
