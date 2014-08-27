@@ -29,7 +29,7 @@ Screenshot of an XFCE desktop with the Dust theme and Glx-Dock.
 
 8. Credits
 
-9. Legal notice
+9. Legal notices
 
 #Prerequisites
 
