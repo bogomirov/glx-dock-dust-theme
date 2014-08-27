@@ -43,6 +43,8 @@ To achieve the effect intended by the Dust Glx-Dock theme, you will need the fol
 
 - Faenza icon theme by thieum: http://tiheum.deviantart.com/art/Faenza-Icons-173323228
 
+- (optionally) Chocolate-milk gradient desktop wallpaper like: http://www.deviantart.com/morelikethis/332464624
+
 - Git core client: http://git-scm.com/downloads
 
 Probably most of the items referenced above are already available through your *NIX OS distribution channels. The URLs are provided for your convenience, whether you choose to look for any newer versions.
@@ -90,7 +92,7 @@ Furthermore, removing the theme will **irrecoverably delete** the history of all
 
 #Further reading
 
-For information about the concept behind this project and how to easily modify and share it online, please review the similar [Bluebird theme for Glx-Dock](https://github.com/bogomirov/glx-dock-bluebird-theme).
+For information about the concept behind this project and how to easily modify and share it online, please see the Bluebird theme for Glx-Dock: https://github.com/bogomirov/glx-dock-bluebird-theme
 
 #Credits
 
