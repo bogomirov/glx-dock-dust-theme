@@ -13,6 +13,8 @@ and bring them together to your professional Linux desktop in a consistent manne
 
 ![Screenshot of an XFCE desktop with the Dust theme and Glx-Dock](screenshot.png)
 
+Screenshot of an XFCE desktop with the Dust theme and Glx-Dock.
+
 #Table of contents
 
 1. Prerequisites
@@ -31,7 +33,7 @@ and bring them together to your professional Linux desktop in a consistent manne
 
 #Prerequisites
 
-To achieve the effect intended by the Dust theme for Glx-Dock, you will need the following free software and artwork installed and configured:
+To achieve the effect intended by the Dust Glx-Dock theme, you will need the following free software and artwork installed and configured:
 
 - *NIX OS with a desktop environment
 
@@ -47,7 +49,7 @@ Probably most of the items referenced above are already available through your *
 
 #Install
 
-Once the prerequisites above are met, in order to install the Dust theme for Glx-Dock, execute the following statement in Terminal:
+Once the prerequisites above are met, in order to install the Dust Glx-Dock theme, execute the following statement in Terminal:
 
 ```
 git clone https://github.com/bogomirov/glx-dock-bluebird-theme.git \
@@ -88,11 +90,11 @@ Furthermore, removing the theme will **irrecoverably delete** the history of all
 
 #Further reading
 
-For information about the concept behind this project and how to easily modify and share it online, please review the [Bluebird theme for Glx-Dock](https://github.com/bogomirov/glx-dock-bluebird-theme).
+For information about the concept behind this project and how to easily modify and share it online, please review the similar [Bluebird theme for Glx-Dock](https://github.com/bogomirov/glx-dock-bluebird-theme).
 
 #Credits
 
-This theme utilizes code and/or artwork from the following sources:
+This project utilizes code and/or artwork from the following sources:
 
 * The Glx-Dock project: http://glx-dock.org/
 
@@ -108,6 +110,6 @@ This theme utilizes code and/or artwork from the following sources:
 
 Copyright on the project concept, theme design, the specific Glx-Dock configuration and some of the digital artwork &copy; Bogomir Bogomirov, 2014.
 
-This project is distributed under GPL version 3. See [LICENSE](LICENSE) file for details.
+This theme is distributed under GPL version 3. See [LICENSE](LICENSE) file for details.
 
 
