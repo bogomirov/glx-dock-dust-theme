@@ -33,7 +33,7 @@ Screenshot of an XFCE desktop with the Dust theme and Glx-Dock.
 
 #Prerequisites
 
-To achieve the effect intended by the Dust Glx-Dock theme, you will need the following free software and artwork installed and configured:
+To achieve the effect intended by the Dust theme for Glx-Dock, you will need the following free software and artwork installed and configured:
 
 - *NIX OS with a desktop environment
 
@@ -47,11 +47,11 @@ To achieve the effect intended by the Dust Glx-Dock theme, you will need the fol
 
 - Git core client: http://git-scm.com/downloads
 
-Probably most of the items referenced above are already available through your *NIX OS distribution channels. The URLs are provided for your convenience, whether you choose to look for any newer versions.
+Probably most of the items referenced above are already available through your *NIX OS distribution channels. The URLs are provided for your convenience, whether you choose to look for any bleeding-edge versions.
 
 #Install
 
-Once the prerequisites above are met, in order to install the Dust Glx-Dock theme, execute the following statement in Terminal:
+Once the prerequisites above are met, in order to install the Dust theme for Glx-Dock, execute the following statement in Terminal:
 
 ```
 git clone https://github.com/bogomirov/glx-dock-bluebird-theme.git \
@@ -62,9 +62,9 @@ Note that installing the theme does not immediately affect the appearance of Glx
 
 #Upgrade
 
-Once installed by completing the step above, the Dust Glx-Dock theme can be upgraded by executing the following statements in Terminal:
+Once installed by completing the step above, the Dust theme for Glx-Dock can be upgraded by executing the following statements in Terminal:
 
-a) Switch to the folder where the Dust Glx-Dock theme is installed:
+a) Switch to the folder where the Dust theme for Glx-Dock is installed:
 
 ```
   cd ~/.config/cairo-dock/themes/Dust
@@ -92,7 +92,7 @@ Furthermore, removing the theme will **irrecoverably delete** the history of all
 
 #Further reading
 
-For information about the concept behind this project and how to easily modify and share it online, please see the Bluebird theme for Glx-Dock: https://github.com/bogomirov/glx-dock-bluebird-theme
+For information about the concept behind this project and how to easily modify and share it online, please see the Bluebird Glx-Dock Theme project: https://github.com/bogomirov/glx-dock-bluebird-theme
 
 #Credits
 
